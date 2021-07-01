@@ -20,6 +20,11 @@ h3 {
     font-weight: normal;
 }
 
+footer {
+    text-align: right;
+    color: gray;
+}
+
 .download-link {
     color: aquamarine;
     font-size: 16px;
